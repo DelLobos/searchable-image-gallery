@@ -1,1 +1,1 @@
-[Demo]([url](https://dellobos.github.io/searchable-image-gallery/))
+[Demo](https://dellobos.github.io/searchable-image-gallery/)
